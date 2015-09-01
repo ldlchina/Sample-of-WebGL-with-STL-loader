@@ -1,0 +1,3 @@
+1.Run LocalServer.py with Python 3.
+2.Open the following URL in Chrome.
+http://localhost:8000/WebGLViewer/STL.html?modelName=bike_frame.stl&cameraType=1&perspectiveAngle=22.61986494804043&cameraPosX=179.2453230210553&cameraPosY=172.03262718951026&cameraPosZ=168.79360183562267&cameraTargetX=8.359184265136719&cameraTargetY=1.146585464477539&cameraTargetZ=-2.09243106842041&upVectorX=0.0&upVectorY=1.0&upVectorZ=0.0
